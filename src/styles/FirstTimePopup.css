@@ -1,0 +1,25 @@
+.popup_header {
+  color: var(--secondary-color);
+  font-family: var(--font-family-secondary);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.popup_p {
+  color: #666;
+  font-family: var(--font-family-secondary);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.popup_header {
+  align-items: self-start !important;
+}
+
+.popup_header .btn-close {
+  padding: 15px !important;
+}
